@@ -228,3 +228,5 @@ License
 (MIT License)
 
 Copyright 2012-2016, JP Richardson  <jprichardson@gmail.com>
+
+This repository was forked and tested locally as part of an open source practice exercise.
